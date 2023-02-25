@@ -18,7 +18,6 @@ require (
 	github.com/gofiber/jwt/v2 v2.2.7
 	github.com/hashicorp/go-version v1.4.0
 	github.com/jasonlvhit/gocron v0.0.1
-	github.com/jinzhu/copier v0.3.5
 	github.com/json-iterator/go v1.1.12
 	github.com/kyokomi/emoji v2.2.4+incompatible
 	github.com/linode/linodego v1.3.0
@@ -101,7 +100,7 @@ require (
 	github.com/valyala/fasthttp v1.33.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/sys v0.0.0-20220111092808-5a964db01320 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/tools v0.1.7 // indirect
