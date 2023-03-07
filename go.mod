@@ -18,7 +18,6 @@ require (
 	github.com/gofiber/jwt/v2 v2.2.7
 	github.com/hashicorp/go-version v1.4.0
 	github.com/jasonlvhit/gocron v0.0.1
-	github.com/jinzhu/copier v0.3.5
 	github.com/json-iterator/go v1.1.12
 	github.com/kyokomi/emoji v2.2.4+incompatible
 	github.com/linode/linodego v1.3.0
@@ -75,7 +74,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
-	github.com/klauspost/compress v1.14.1 // indirect
+	github.com/klauspost/compress v1.15.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
@@ -98,10 +97,10 @@ require (
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/tklauser/numcpus v0.3.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.33.0 // indirect
+	github.com/valyala/fasthttp v1.34.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/sys v0.0.0-20220111092808-5a964db01320 // indirect
+	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/tools v0.1.7 // indirect
